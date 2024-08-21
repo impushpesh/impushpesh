@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python, JavaScript**
 
 - 📫 How to reach me **impushpeshpant@gmail.com**
 
