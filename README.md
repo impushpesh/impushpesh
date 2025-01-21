@@ -3,17 +3,15 @@
 <h2 align="center">About Me</h2>
 <p align="center">
   Hi, I’m <strong>Pushpesh</strong>, an aspiring software engineer passionate about building innovative projects.  
-  I enjoy exploring new technologies, solving problems, and turning ideas into functional applications.  
-  Check out my repositories to see what I’ve been working on!  
+  I enjoy exploring new technologies, solving problems, and turning ideas into functional applications. 
 </p>
 
 
 
 - 🌱 I’m currently learning **Backend Development**  
-- 💬 Ask me about **C++, Python, JavaScript**  
+- 💬 Ask me about **C++, Python, Web Development**  
 - 📫 How to reach me: **ppant9418@gmail.com**  
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
