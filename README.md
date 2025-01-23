@@ -78,8 +78,21 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=impushpesh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=impushpesh&bg_color=ffffff&color=000000&line=00c853&point=1b5e20&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impushpesh&" alt="GitHub Streak Stats" />
-</p>
+
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=impushpesh&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impushpesh&layout=compact&hide=html,css" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+
