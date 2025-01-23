@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Backend Development**  
-- 💬 Ask me about **C++, Python, Web Development**  
-- 📫 How to reach me: **ppant9418@gmail.com**  
+- 🌱 **Currently Exploring:** Advancing my skills in **Full Stack Development** and diving into **new technologies**.  
+- 💬 **Ask Me About:** **C++, Python, Web Development, Backend APIs, and Database Management**.  
+- 📫 **Get in Touch:** Reach out at **ppant9418@gmail.com**.  
 
 
 <h3 align="left">Connect with me:</h3>
