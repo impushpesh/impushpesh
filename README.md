@@ -44,6 +44,7 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=dotnet)
 
 ---
 
