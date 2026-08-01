@@ -5,10 +5,11 @@
   Hi, I’m <strong>Pushpesh</strong>, an aspiring software engineer.  
   I enjoy exploring new technologies, and turning ideas into functional applications. 
 </p>
-<strong>Visit: https://www.pushpesh.xyz/</strong>
 
 
-- 📫 **Get in Touch:** Reach out at **ppant9418@gmail.com**.  
+
+- 📫 **Get in Touch:** Reach out at **ppant9418@gmail.com**.
+- **Visit:** https://www.pushpesh.xyz/ 
 
 
 <h3 align="left">Connect with me:</h3>
